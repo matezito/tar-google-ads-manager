@@ -10,7 +10,7 @@ Example ad script
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
-    googletag.defineSlot('/12259533/Cine_Lateral_Der', [120, 600], 'div-gpt-ad-1613130168260-0').addService(googletag.pubads());
+    googletag.defineSlot('/12259533/Cine_Lateral_Der', [120, 600], 'div-gpt-ad-1613sdfdsf0168260-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
@@ -20,7 +20,7 @@ Example ad script
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
-    googletag.defineSlot('/12259533/CC_test_larzonbo', ['fluid', [120, 20]], 'div-gpt-ad-1613314328466-0').addService(googletag.pubads());
+    googletag.defineSlot('/12259533/CC_test_larzonbo', ['fluid', [120, 20]], 'div-gpt-ad-16133fdsfs8466-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
@@ -31,14 +31,14 @@ Example ad
 <!-- /12259533/Cine_Lateral_Der -->
 <div id='div-gpt-ad-1613130168260-0' style='width: 120px; height: 600px;'>
   <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1613130168260-0'); });
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-161dfdf68260-0'); });
   </script>
 </div>
 
 <!-- /12259533/CC_test_larzonbo -->
 <div id='div-gpt-ad-1613333614106-0'>
   <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1613333614106-0'); });
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-16dfdf614106-0'); });
   </script>
 </div>
 
