@@ -1,0 +1,126 @@
+Head for all ads
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+ For one add
+
+Example ad script
+
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/12259533/Cine_Lateral_Der', [120, 600], 'div-gpt-ad-1613130168260-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/12259533/CC_test_larzonbo', ['fluid', [120, 20]], 'div-gpt-ad-1613314328466-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+Example ad
+
+<!-- /12259533/Cine_Lateral_Der -->
+<div id='div-gpt-ad-1613130168260-0' style='width: 120px; height: 600px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1613130168260-0'); });
+  </script>
+</div>
+
+<!-- /12259533/CC_test_larzonbo -->
+<div id='div-gpt-ad-1613333614106-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1613333614106-0'); });
+  </script>
+</div>
+
+
+Example amp
+
+<amp-ad width=120 height=600
+    type="doubleclick"
+    data-slot="/12259533/Cine_Lateral_Der">
+</amp-ad>
+
+Example Amp HTML
+
+<!DOCTYPE HTML>
+<html amp>
+<head>
+  <meta charset="utf-8">
+  <title>Widgets Magazine</title>
+  <link rel="canonical" href="$REGULAR_HTML_URL"/>
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <style amp-boilerplate>
+    body{
+      -webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+      -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+      -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+      animation:-amp-start 8s steps(1,end) 0s 1 normal both
+    }
+    @-webkit-keyframes-amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body{
+        -webkit-animation:none;
+        -moz-animation:none;
+        -ms-animation:none;
+        animation:none
+      }
+    </style>
+  </noscript>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+</head>
+<body>
+  <amp-ad width=120 height=600
+      type="doubleclick"
+      data-slot="/12259533/Cine_Lateral_Der">
+  </amp-ad>
+</body>
+</html>
+
+
+Multiple ads:
+
+script ads
+
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/12259533/News_International_BoxATF', [[160, 600], [200, 446], [88, 31], 'fluid'], 'div-gpt-ad-1613130672586-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+body ads
+
+<!-- /12259533/News_International_BoxATF -->
+<div id='div-gpt-ad-1613130672586-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1613130672586-0'); });
+  </script>
+</div>
+
+
+amp
+
+<amp-ad layout="fluid" height="fluid"
+    type="doubleclick"
+    data-slot="/12259533/News_International_BoxATF"
+    data-multi-size="200x446,160x600,88x31">
+</amp-ad>

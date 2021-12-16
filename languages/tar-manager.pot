@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-07 16:36-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-ads-admin-menu.php:15
+msgid "Tar Ads Manager"
+msgstr ""
+
+#: admin/class-ads-admin-menu.php:16
+#: admin/partials/tar-google-ads-manager-admin-display.php:28
+msgid "ADS Manager"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:69
+msgid "Checking..."
+msgstr ""
+
+#: admin/class-ads-list-manager.php:240
+msgid "Ad saved successfully"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:244
+msgid "ERROR"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:321
+msgid "All data importa correctly"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:360
+msgid "&laquo;"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:361
+msgid "&raquo;"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:421
+msgid "Ad updated successfully"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:425
+msgid "ERROR: ad not updated"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:442
+msgid "Size delete"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:454
+msgid "So sorry, wp_nonce is broken!"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:485
+msgid "Ad and sizes deleted successfully"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:489
+msgid "ERROR: ad not deleted"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:502
+#, php-format
+msgid "NETWORK CODE MISSING!!, more info in %s"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:511
+msgid "Network Code updeted successfully"
+msgstr ""
+
+#: admin/class-ads-list-manager.php:515
+msgid "Network Code is not updeted, sorry"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:37
+msgid "edit"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:40
+msgid "Ad Title"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:41
+#: admin/partials/tar-google-ads-manager-admin-display.php:45
+#: admin/partials/tar-google-ads-manager-admin-display.php:100
+#: admin/partials/tar-google-ads-manager-admin-display.php:112
+msgid "AD Title"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:42
+#: admin/partials/tar-google-ads-manager-admin-display.php:43
+#: admin/partials/tar-google-ads-manager-admin-display.php:104
+#: admin/partials/tar-google-ads-manager-admin-display.php:106
+msgid "AD Superior Code"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:44
+msgid "Ad Code"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:47
+msgid "Ad sizes"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:61
+msgid "Fluid"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:65
+#: admin/partials/tar-google-ads-manager-admin-display.php:122
+msgid "Active?"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:70
+#, php-format
+msgid "Publish by %s at %s"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:71
+#, php-format
+msgid "Last update: %s "
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:76
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:77
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:88
+msgid "There is nothing here"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:94
+msgid "Add new Ad"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:98
+msgid "AD Title *"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:110
+msgid "AD Code *"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:116
+msgid "Fluid?"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:130
+msgid "Add sizes"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:134
+msgid "Sizes"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:136
+msgid "Ad Width"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:136
+msgid "Width"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:137
+msgid "Ad Height"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:137
+msgid "Height"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:148
+msgid "Add"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:153
+msgid "Import CSV"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:154
+#, php-format
+msgid "Import ads with a csv file. In %s, you have a example of file."
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:154
+msgid "this link"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:154
+msgid ""
+"You must download de file and then save as your-archive-name.csv (csv "
+"extension)."
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:158
+msgid "Add File"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:164
+msgid "Import"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:169
+#: admin/partials/tar-google-ads-manager-admin-display.php:174
+msgid "Google Ad Manager Network Code"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:170
+msgid ""
+"Where is it? When you log into your Google Ad Manager account, in the url "
+"(for example: https://admanager.google.com/12345678), it is the number after "
+"the slash (8 digits)"
+msgstr ""
+
+#: admin/partials/tar-google-ads-manager-admin-display.php:180
+msgid "Add or Edit"
+msgstr ""
+
+#: includes/class-tar-google-ads-manager-widget.php:12
+msgid "Ad Manager"
+msgstr ""
+
+#: includes/class-tar-google-ads-manager-widget.php:23
+msgid "-- select ad --"
+msgstr ""
+
+#: includes/class-tar-google-ads-manager-widget.php:37
+msgid "Select AD"
+msgstr ""
